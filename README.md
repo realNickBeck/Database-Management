@@ -19,3 +19,7 @@ Admins have the option of executing any of the following tasks
 6. Logout
 
 Changes made on any account will apear through out the Project portal
+
+# Database Visual
+
+![image](https://user-images.githubusercontent.com/101303615/234128575-5a66f2a6-ed85-4b8f-8144-2127f748606e.png)
